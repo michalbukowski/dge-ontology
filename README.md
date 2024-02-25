@@ -46,7 +46,5 @@ jupyter lab
 ```
 
 #### References
-<p style="font-size: smaller;">
-1. <a href="https://doi.org/10.1186/s13059-014-0550-8">R. Patro, G. Duggal, M.I. Love, R.A. Irizarry, C. Kingsford, Nat. Methods 14 (2017) 417–419.</a><br>
-2. <a href="https://doi.org/10.1038/nmeth.4197">M.I. Love, W. Huber, S. Anders, Genome Biol. 15 (2014) 550.</a>
-</p>
+1. [R. Patro, G. Duggal, M.I. Love, R.A. Irizarry, C. Kingsford, Nat. Methods 14 (2017) 417–419.](https://doi.org/10.1186/s13059-014-0550-8)<br>
+2. [M.I. Love, W. Huber, S. Anders, Genome Biol. 15 (2014) 550.](https://doi.org/10.1038/nmeth.4197)
