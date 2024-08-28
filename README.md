@@ -25,7 +25,7 @@ The library is a good choice for those who expect to use the solution without
 playing with the code interactively. The library installation and usage is
 quite straightforward and described in details both on the library PyPI site
 ([here](https://pypi.org/project/dgeontology)) as well as in the
-[dgeontology](https://github.com/michalbukowski/dge-ontology/dgeontology) subdirectory
+[dgeontology](https://github.com/michalbukowski/dge-ontology/tree/main/dgeontology) subdirectory
 of this repository, where the library source is contained.
 
 The library documentation provides a basic example its usage. Nevertheless, you
