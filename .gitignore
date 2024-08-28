@@ -1,2 +1,6 @@
-.ipynb_checkpoints
+*__pycache__
+*.ipynb_checkpoints
 output
+dgeontology/dist
+dgeontology/dgeontology.egg-info
+
