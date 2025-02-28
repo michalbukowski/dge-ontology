@@ -6,8 +6,8 @@ one highly informative and visually appealing circular chart.
 
 ## Citing the software
 The software is featured in the following publication:
-Bukowski M and Wladyka B. (2024) _DGE-ontology: A quick and simple gene set enrichment analysis and visualisation tool_
-SoftwareX [awaiting publication]
+Bukowski M and Wladyka B. (2024) _DGE-ontology: A quick and simple gene set enrichment analysis and visualisation tool_.
+SoftwareX 28:101899. https://doi.org/10.1016/j.softx.2024.101899
 
 ## Introduction
 The software has been primarily designed for transcriptomics (for results
